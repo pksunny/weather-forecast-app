@@ -1,16 +1,10 @@
-# waether_forecast_app
+# DEMO VIDEO #
+# 👇👇👇👇👇 #
+# PART-1 #
 
-A new Flutter project.
+https://user-images.githubusercontent.com/109496783/193057143-95e1ec31-11bc-4856-a380-639c3846db65.mp4
 
-## Getting Started
+# PART-2 #
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/109496783/193057833-2532db46-a0d8-4e4b-9316-0bce90569b16.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
